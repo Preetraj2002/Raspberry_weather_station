@@ -2,7 +2,7 @@ import smtplib
 
 sender = "preetrajgupta2002@gmail.com"
 receiver = "preetrajgupta2002@gmail.com"
-password = "eswc jtnd gwud kebn"
+password = "Your Password"
 
 port_no = 587
 smtp_url = "smtp.gmail.com"
